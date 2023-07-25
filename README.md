@@ -5,7 +5,7 @@ This project is a React Native application that recreates the registration scree
 ## Prerequisites
 
 - Node.js and npm should be installed.
-- Your development environment should be set up for React Native. [React Native Environment Setup](https://reactnative.dev/docs/environment-setup)
+- Your development environment should be set up for React Native. [(React Native Environment Setup)](https://reactnative.dev/docs/environment-setup)
 
 ## Installation
 
