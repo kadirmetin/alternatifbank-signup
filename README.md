@@ -57,10 +57,10 @@ npm start
 ## Screenshots
 
 <p float="left" align="center">
-  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/6f7e44d5-bfe8-49ce-8a2c-9fac20f4754b" width="225" />
-  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/623856b4-ec3f-4654-ac70-296aa6ca9adb" width="225" />
-  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/ef51ffe9-103a-4cf4-a5d9-5a0d51dfd224" width="225" />
-  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/59c2be16-abd9-4888-8260-15aa8c2cd371" width="225" />
+  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/6f7e44d5-bfe8-49ce-8a2c-9fac20f4754b" width="200" />
+  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/623856b4-ec3f-4654-ac70-296aa6ca9adb" width="200" />
+  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/ef51ffe9-103a-4cf4-a5d9-5a0d51dfd224" width="200" />
+  <img src="https://github.com/kadirmetin/alternatifbank-signup/assets/82063998/59c2be16-abd9-4888-8260-15aa8c2cd371" width="200" />
 </p>
 
 ## License
