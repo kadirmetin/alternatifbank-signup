@@ -25,9 +25,9 @@ npm install
 3. Create your Firebase project and add the Firebase configuration file:
 
    - If you already have a Firebase account, create a new project and obtain the Firebase configuration details.
-   - Add the obtained configuration details to the `firebaseConfig.js` file:
+   - Add the obtained configuration details to the `firebase.js` file:
 
-```javascript
+```
 // src/App/firebase.js
 
 const firebaseConfig = {
