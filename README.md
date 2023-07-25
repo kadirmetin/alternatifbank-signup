@@ -67,4 +67,6 @@ npm start
 
 This project is licensed under the MIT License. For more information, see the [License File](LICENSE).
 
+```
 **Note:** This project is not affiliated with AlternatifBank and is created for personal learning purposes only.
+```
